@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>picetures/白色.png</file>
+        <file>picetures/兔子 蜡笔.png</file>
+        <file>picetures/兔子耳朵.png</file>
+        <file>picetures/最终按钮.png</file>
+        <file>picetures/背景 蓝.png</file>
+        <file>picetures/背景 啊啊啊啊.png</file>
+        <file>picetures/关闭背景.png</file>
+        <file>picetures/关闭.png</file>
+        <file>picetures/静态label.png</file>
+        <file>picetures/学生信息.png</file>
+        <file>picetures/课程信息.png</file>
+    </qresource>
+</RCC>
